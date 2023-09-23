@@ -2,7 +2,7 @@
 # Hi, I'm Ravi Chandra! 👋
 
 
-# Automated Todo App CI/CD with DevOps, Docker, and GitHub.
+# Automated Todo App CI/CD with DevOps, Docker, and GitHub. 
 
  Introduce my latest project, "Automated Todo App with Jenkins, Docker, and GitHub". 
 
