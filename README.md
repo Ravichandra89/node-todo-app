@@ -1,6 +1,6 @@
 ### Commands to build the integration
 
-1. First launch the ec2 instance on AWS.
+1. First launch an ec2 instance on AWS.
 
 2. Run the following commands :
 
