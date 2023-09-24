@@ -102,3 +102,7 @@ My Todo app is currently hosted on an EC2 instance, and it operates only as long
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravi-chandra-5a2b99230)
 
 
+
+## Feedback
+
+If you have any feedback or any problem, You can mail me or can contact me on linkedin.  ravi.21jdai027@jietjodhpur.ac.in
