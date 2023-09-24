@@ -95,3 +95,10 @@ My Todo app is currently hosted on an EC2 instance, and it operates only as long
 
       docker run -d --name node-todo-app -p 8000:8000 todo-node-app
 ```
+
+
+## 🔗 Links
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravi-chandra-5a2b99230)
+
+
